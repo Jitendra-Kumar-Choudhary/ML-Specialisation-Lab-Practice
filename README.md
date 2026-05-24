@@ -1,2 +1,2 @@
-# ML---Specialisation---Lab-practice-by-Andrew-Ng
+# ML-Specialisation-Lab-practice
 this is my first repo
